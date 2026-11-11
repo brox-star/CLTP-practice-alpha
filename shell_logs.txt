@@ -1,0 +1,500 @@
+25  rm -r practice-2-1
+   26  rm -rf practice-2-1
+   27  ls -l
+   28  cd practice-1-1/
+   29  ls -l
+   30  make check
+   31  ./ref_tinyheap -i testcases/all-three-edges 
+   32  cat testcases/all-three-edges 
+   33  ./bin/tinyheap -i testcases/all-three-edges 
+   34  pwd
+   35  make test
+   36  pwd
+   37  gdb tinyheap.c
+   38  ./bin/tinyheap 
+   39  ./bin/tinyheap -i testcases/all-three-edges 
+   40  touch practice
+   41  ls
+   42  ls -l
+   43  rm practice
+   44  ls -l
+   45  env | grep -i shell
+   46  uname -a
+   47  mkdir practice
+   48  ls -l
+   49  cd practice
+   50  pwd
+   51  git clone git@github.com:cs429-fa2026/cs429-fa2026-mm-lab-brox-star.git
+   52  ll ~/.ssh
+   53  ls -l ~/.ssh
+   54  ls -al ~/.ssh
+   55  cat ~/.ssh/known_hosts 
+   56  history | grep -i ssh
+   57  pwd
+   58  git clone git@github.com:cs429-fa2026/cs429-fa2026-mm-lab-brox-star.git
+   59  cd ~/.ssh
+   60  ls -al
+   61  cat known_hosts
+   62  ll ~
+   63  ls -al ~
+   64  pwd
+   65  cd
+   66  ll
+   67  pwd
+   68  cd proficiency-1-jbr2988/
+   69  ls -al
+   70  git status
+   71  git log
+   72  pwd
+   73  cd
+   74  pwd
+   75  ls
+   76  cp -r proficiency-1-jbr2988 practice-1-1
+   77  ls
+   78  cd practice-1-1
+   79  ls
+   80  git status
+   81  cat DELETE_REPO 
+   82  ls -al
+   83  vi README.md 
+   84  nano README.md 
+   85  nano tinyheap.h
+   86  nano tinyheap.c
+   87  pwd
+   88  ls
+   89  cat Makefile
+   90  nano Makefile
+   91  git status
+   92  nano Makefile
+   93  ls
+   94  cd ref_tinyheap
+   95  nano ref_tinyheap
+   96  nano testcases
+   97  cd testcases
+   98  ls
+   99  ls -l
+  100  nano all-three-edges
+  101  nano all-three-edges
+  102  nano Makefile
+  103  pwd
+  104  cd ..
+  105  pwd
+  106  ls
+  107  nano Makefile
+  108  nano README.md 
+  109  pwd
+  110  nano tinyheap.c
+  111  pwd
+  112  ls
+  113  nano tinyheap.c
+  114  ls
+  115  cd testcases
+  116  nano all-three-edges
+  117  pwd
+  118  cd ..
+  119  pwd
+  120  ls
+  121  nano README.md
+  122  nano Makefile 
+  123  nano README.md
+  124  nano Makefile 
+  125  nano README.md
+  126  cat README.md 
+  127  nano Makefile 
+  128  nano tinyheap.c
+  129  nano tinyheap.c
+  130  nano -l tinyheap.c
+  131  ls
+  132  cp -r proficiency-2-jbr2988 practice-2-1
+  133  ls
+  134  cd practice-2-1
+  135  ls
+  136  nano README.md
+  137  ls
+  138  cd testcases
+  139  ls
+  140  ls
+  141  cd ..
+  142  pwd
+  143  ls
+  144  nano printqueue.c
+  145  nano -l printqueue.c
+  146  ls
+  147  nanco printqueue.c 
+  148  nano printqueue.c
+  149  ls
+  150  nano -l printqueue.c
+  151  logout
+  152  ls
+  153  cd proficiency-2-1
+  154  cd practice-2-1
+  155  pwd
+  156  nano Makefile
+  157  make all
+  158  make test
+  159  make check
+  160  gdb ./bin/printqueue
+  161  pwd
+  162  make debug
+  163  gdb bin/printqueue 
+  164  logout
+  165  cd practice-1-1/
+  166  gdb "./bin/tinyheap -i testscases/all-three-edges"
+  167  gdb ./bin/tinyheap -i testscases/all-three-edges
+  168  gdb ./bin/tinyheap
+  169  make all
+  170  pwd
+  171  gdb ./bin/tinyheap
+  172  make debug
+  173  gdb ./bin/tinyheap
+  174  pwd
+  175  ls
+  176  cd testcases
+  177  ls
+  178  cd ..
+  179  pwd
+  180  ls
+  181  ./bin/tinyheap -i testcases/edge-and-release
+  182  pwd
+  183  ls
+  184  cd testcases
+  185  ls
+  186  cat edge-and-release
+  187  pwd
+  188  ls
+  189  cat partial-and-release
+  190  cd practice-1-2
+  191  make all
+  192  make test
+  193  make check
+  194  ./bin/tinyheap testcases/all-three-edges
+  195  ./bin/tinyheap -i testcases/all-three-edges
+  196  gdb ./bin/tinyheap
+  197  make debug
+  198  gdb ./bin/tinyheap
+  199  cd
+  200  cd practice-1-2
+  201  make all
+  202  make degub
+  203  make debug
+  204  gdb ./bin/tinyheap
+  205  make check
+  206  logout
+  207  ls
+  208  ls -l
+  209  mkdir practice-1-2
+  210  ls
+  211  cd practice-1-2
+  212  pwd
+  213  cd ..
+  214  pwd
+  215  cp -r proficiency-1-jbr2988 practice-1-2
+  216  cd practice-1-2
+  217  pwd
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd practice-1-1
+  222  ls
+  223  rm -i practice-1-2
+  224  pwd
+  225  cd ..
+  226  pwd
+  227  rm -i practice-1-2
+  228  rm -r practice-1-2
+  229  pwd
+  230  ls
+  231  cd practice-1-2
+  232  ls
+  233  cd proficiency-1-jbr2988
+  234  pwd
+  235  ls
+  236  cd..
+  237  cd ..
+  238  pwd
+  239  rm -r proficiency-1-jbr2988
+  240  pwd
+  241  cd ..
+  242  ls
+  243  rm -rf practice-1-2
+  244  ls
+  245  cp -r proficiency-1-jbr2988 practice-1-2
+  246  ls
+  247  cd practice-1-2
+  248  ls
+  249  pwd
+  250  nano README.md
+  251  nano Makefile
+  252  nano README.md
+  253  ls
+  254  cd testcases
+  255  ls
+  256  pwd
+  257  nano all-three-edges
+  258  nano tinyheap.c
+  259  ls
+  260  cd ..
+  261  ls
+  262  nano tinyheap.c
+  263  logout
+  264  cd practice-2-2
+  265  ls
+  266  nano README.md
+  267  nano Makefile
+  268  nano README.md
+  269  nano printqueue.c
+  270  logout
+  271  cp -r proficiency-2-jbr2988 practice-2-2
+  272  cd practice-2-2
+  273  ls
+  274  make all
+  275  make test
+  276  make check
+  277  make debug
+  278  gdb ./bin/printqueue
+  279  make debug
+  280  gdb ./bin/printqueue
+  281  pwd
+  282  make check
+  283  gdb ./bin/printqueue
+  284  gdb ./bin/printqueue
+  285  make check
+  286  logout
+  287  ls
+  288  ls -a
+  289  cd /temp
+  290  cd /tmp
+  291  cd ~/.ssh
+  292  pwd
+  293  ls
+  294  logout
+  295  ls -l
+  296  cd practice-2-2
+  297  git status
+  298  touch grays-pjs
+  299  git status
+  300  rm grays-pjs 
+  301  git status
+  302  git diff printqueue.c
+  303  git restore
+  304  ls printqueue*
+  305  git restore printqueue.c
+  306  git diff
+  307  git status
+  308  history | grep git
+  309  ls -al ~
+  310  ls -al ~ | grep history
+  311  logout
+  312  ls
+  313  cd /tmp
+  314  ls
+  315  ls | grep grays-diapers
+  316  cd
+  317  ls -a
+  318  cd .ssh
+  319  ls -l
+  320  logout
+  321  ls
+  322  git clone git@github.com:cs429-fa2026/cs429-fa2026-se-lab-group-94.git
+  323  ls
+  324  cd cs429-fa2026-se-lab-group-94
+  325  ls
+  326  logout
+  327  ls
+  328  cd cs429-fa2026-se-lab-group-94/
+  329  git pull origin 
+  330  git pull origin 
+  331  make week1
+  332  bin/test-hw -v 1
+  333  logout
+  334  cd CLTP-practice-a/
+  335  ls
+  336  cd
+  337  touch ~/.gdbinit
+  338  ls
+  339  ls -a
+  340  cd .gdbinit
+  341  nano .gdbinit
+  342  cd CLTP-practice-a/
+  343  make
+  344  make tests
+  345  make check
+  346  make debug
+  347  gdb ./bin/calculator
+  348  gdb ./bin/mini_ci
+  349  gdb ./calculator
+  350  gdb
+  351  gdb calculator.o
+  352  make debug
+  353  gdb calculator.o
+  354  gdb mini_ci
+  355  make clean
+  356  make
+  357  make debug
+  358  make clean
+  359  make debug
+  360  gdb mini_ci
+  361  make
+  362  make debug
+  363  make debug
+  364  ls -l
+  365  cat Makefile 
+  366  make debug
+  367  make clean
+  368  make debug
+  369  make debug
+  370  make debug
+  371  make -B debug
+  372  make debug
+  373  make debug
+  374  make -B debug
+  375  make -B debug
+  376  make debug
+  377  pwd
+  378  cat ~/.gdbinit 
+  379  git status
+  380  nano Makefile
+  381  git status
+  382  git restore Makefile
+  383  git status
+  384  make clean
+  385  make debug
+  386  gdb mini_ci
+  387  make chechk
+  388  make check
+  389  make clean
+  390  make debug
+  391  gdb mini_ci
+  392  gdb mini_ci_reference
+  393  gdb mini_ci
+  394  mini_ci testcases/basic_add.s 
+  395  mini_ci_reference testcases/basic_add.s 
+  396  gdb mini_ci
+  397  gdb mini_ci_reference
+  398  mini_ci_reference testcases/basic_add.s 
+  399  logout
+  400  git clone https://github.com/brox-star/CLTP-practice-a.git
+  401  ls
+  402  cd CLTP-practice-a
+  403  pwd
+  404  ls
+  405  nano RADME.md
+  406  nano README.md
+  407  nano Makefile
+  408  nano calculator.c
+  409  nano README.md
+  410  ls
+  411  ls -a
+  412  nano Makefile
+  413  nano README.md
+  414  nano Makefile
+  415  nano Makefile
+  416  nano Makefile
+  417  nano README.md
+  418  nano Makefile
+  419  nano README.md
+  420  nano calculator.c
+  421  cat testcases/err_ops.s
+  422  ls -l
+  423  cat mini_ci_reference 
+  424  nano README.md
+  425  nano Makefile
+  426  ls
+  427  cd tescases
+  428  cd testcases/
+  429  ls
+  430  nano Makefile
+  431  cd ..
+  432  nano Makefile 
+  433  nano README.md 
+  434  nano Makefile 
+  435  nano README.md
+  436  ll
+  437  ls -pal
+  438  nano Makefile 
+  439  logout
+  440  ls
+  441  cd CLTP-practice-a/
+  442  ls
+  443  make
+  444  make tests
+  445  make check
+  446  make clean
+  447  make debug
+  448  gdb mini_ci
+  449  make
+  450  make clean
+  451  make
+  452  mini_ci testcases/err_op.s
+  453  mini_ci testcases/op_err.s
+  454  mini_ci testcases/err_ops.s
+  455  make clean
+  456  make debug
+  457  gdb mini_ci
+  458  make clean
+  459  make
+  460  mini_ci testcases/err_ops.s
+  461  make clean
+  462  make debug
+  463  gdb mini_ci
+  464  mini_ci_reference testcases/err_ops.c
+  465  mini_ci_reference testcases/err_ops.s
+  466  make clean
+  467  make
+  468  mini_ci_reference testcases/err_ops.s
+  469  mini_ci_reference testcases/err_ops.s 
+  470  make tests
+  471  cd CLTP-practice-a/
+  472  nano README.md
+  473  nano Makefile
+  474  nano REAMDE.md
+  475  nano README.md 
+  476  ls
+  477  cd testcases
+  478  ls
+  479  nano calculator.c
+  480  ls
+  481  cd ..
+  482  nano calculator.c
+  483  nano -l
+  484  nano -l calculator.c
+  485  nano README.md 
+  486  nano -l calculator.c
+  487  make
+  488  cd CLTP-practice-a/
+  489  make
+  490  make
+  491  make check
+  492  logout
+  493  cd CLTP-practice-a/
+  494  nano calculator.c
+  495  nano README.md 
+  496  ls
+  497  nano reader.h
+  498  nano calculator.c
+  499  logout
+  500  git clone https://github.com/brox-star/CLTP-practice-alpha.git
+  501  ls
+  502  cd CLTP-practice-alpha/
+  503  ls
+  504  nano README.md 
+  505  make stitch
+  506  make nani
+  507  make lilo
+  508  gdb ./bin/second_trie
+  509  make lilo
+  510  gdb bin/second_trie
+  511  ls
+  512  cd bin
+  513  ls
+  514  cd ..
+  515  cd bin/second_trie
+  516  gdb bin/second_trie
+  517  bin/second_trie -w testcases/dinosaurs.in
+  518  make pleakley
+  519  make nani
+  520  make cobra
+  521  make lilo
+  522  gdb bin/second_trie
+  523  make nani
+  524  history
